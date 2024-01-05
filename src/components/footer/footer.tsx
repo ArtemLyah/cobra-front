@@ -61,7 +61,6 @@ const Footer = () => {
                 <h3>Code Branch</h3>
                 <h6>Code and share your experience</h6>
               </div>
-              
             </Col>
           </div>
           
