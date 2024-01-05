@@ -32,7 +32,7 @@ export const Modal = ( { isOpen, toggleModal, content } ) =>{
           <div className='wrapper-modal'>
             <div className='content-modal'>
               <div className=''>
-                <button className='close-btn' onClick={toggleModal}><i className="fa-light fa-lg fa-circle-xmark"></i></button>
+                <button className='close-btn' onClick={toggleModal}><i className="fa-light fa-lg fa-xmark"></i></button>
               </div>
               <div className='list'>
                 <ModalContent />

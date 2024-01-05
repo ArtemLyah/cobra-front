@@ -61,12 +61,7 @@ const Footer = () => {
                 <h3>Code Branch</h3>
                 <h6>Code and share your experience</h6>
               </div>
-              <form className='contact-us'>
-                <p>Contact us via e-mail</p>
-                <input type='email'  placeholder='Your e-mail'/>
-                <button type='submit'>Send</button>
-              </form>
-
+              
             </Col>
           </div>
           
